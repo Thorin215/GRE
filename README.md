@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="assets/gre.png" width="50%" style="margin-bottom: 0.2;"/>
+    <img src="assets/gre.png" width="45%" style="margin-bottom: 0.2;"/>
 <p>
 
 <h3 align="center"><a href="http://arxiv.org/abs/2501.00599" style="color:#665E65">
@@ -15,9 +15,9 @@ GRE Suite: Geo-localization Inference via Fine-Tuned Vision-Language Models and 
 </div>
 
 ## 📰 Release Process
-- [x] Release the [GRE30K dataset]()  on huggingface.
-- [x] Release the checkpoint & code of GRE.
-- [x] Release the [GREval-Bench]() on huggingface.
+- [x] Release the [GRE30K dataset](https://huggingface.co/datasets/Anonymous0515/GRE30K)  on huggingface.
+- [x] Release the [checkpoint](https://huggingface.co/Anonymous0515/GRE) & code of GRE.
+- [x] Release the [GREval-Bench](https://huggingface.co/datasets/Anonymous0515/GREval-Bench) on huggingface.
 - [ ] Release the evaluation outputs.
 
 ## 🔍 About GRE Suite 
