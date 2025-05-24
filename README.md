@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="assets/gre.png" width="60%" style="margin-bottom: 0.2;"/>
+    <img src="assets/gre.png" width="50%" style="margin-bottom: 0.2;"/>
 <p>
 
 <h3 align="center"><a href="http://arxiv.org/abs/2501.00599" style="color:#665E65">
