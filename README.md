@@ -2,7 +2,7 @@
     <img src="assets/gre.png" width="45%" style="margin-bottom: 0.2;"/>
 <p>
 
-<h3 align="center"><a href="http://arxiv.org/abs/2501.00599" style="color:#665E65">
+<h3 align="center"><a href="http://arxiv.org/abs/xxx" style="color:#665E65">
 GRE Suite: Geo-localization Inference via Fine-Tuned Vision-Language Models and Enhanced Reasoning Chains</a></h3>
 
 <div align=center>
