@@ -7,7 +7,7 @@ GRE Suite: Geo-localization Inference via Fine-Tuned Vision-Language Models and 
 
 <div align=center>
 
-[![arXiv preprint](https://img.shields.io/badge/arxiv-xxxx.xxxxx-ECA8A7?logo=arxiv)](http://arxiv.org/abs/2505.18700) 
+[![arXiv preprint](https://img.shields.io/badge/arxiv-2505.18700-ECA8A7?logo=arxiv)](http://arxiv.org/abs/2505.18700) 
 [![Dataset](https://img.shields.io/badge/Dataset-Hugging_Face-E59FB6)](https://huggingface.co/datasets/Anonymous0515/GRE30K) 
 [![Model](https://img.shields.io/badge/Model-Hugging_Face-CFAFD4)](https://huggingface.co/Anonymous0515/GRE) 
 [![Benchmark](https://img.shields.io/badge/Benchmark-Hugging_Face-96D03A)](https://huggingface.co/datasets/Anonymous0515/GREval-Bench) 
