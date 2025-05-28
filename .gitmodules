@@ -1,0 +1,6 @@
+[submodule "train/VLM-R1"]
+	path = train/VLM-R1
+	url = git@github.com:om-ai-lab/VLM-R1.git
+[submodule "train/LLaMA-Factory"]
+	path = train/LLaMA-Factory
+	url = git@github.com:hiyouga/LLaMA-Factory.git
